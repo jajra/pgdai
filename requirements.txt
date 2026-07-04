@@ -1,0 +1,8 @@
+torch>=2.0.0
+tokenizers>=0.13.3
+pandas>=2.0.0
+numpy>=1.24.0
+nltk>=3.8.1
+bert-score>=0.3.13
+tqdm>=4.65.0
+transformers>=4.28.0
